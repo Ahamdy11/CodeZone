@@ -222,3 +222,4 @@ E:\Entity Framework\CodeZone\CodeZone.Web\bin\Debug\net9.0\runtimes\win\lib\net6
 E:\Entity Framework\CodeZone\CodeZone.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 E:\Entity Framework\CodeZone\CodeZone.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 E:\Entity Framework\CodeZone\CodeZone.Web\bin\Debug\net9.0\AutoMapper.dll
+E:\Entity Framework\CodeZone\CodeZone.Web\obj\Debug\net9.0\CodeZone.Web.sourcelink.json

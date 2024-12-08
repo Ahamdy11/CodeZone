@@ -1,10 +1,5 @@
 ﻿using CodeZone.DataAccess.Data;
 using CodeZone.DataAccess.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CodeZone.DataAccess.Repositories
 {
@@ -12,12 +7,12 @@ namespace CodeZone.DataAccess.Repositories
     {
         private readonly ApplicationDbContext _context;
         public IStoreRepository Store { get; private set; }
-       // public IItemRepository Item { get; private set; }
+        public IItemRepository Item { get; private set; }
         public UnitOfWork(ApplicationDbContext context)
         {
             _context = context;
             Store = new StoreRepository(context);
-          //  Item = new ItemRepository(context);
+            Item = new ItemRepository(context);
         }
 
 

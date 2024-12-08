@@ -1,11 +1,7 @@
 ﻿using CodeZone.DataAccess.Data;
 using CodeZone.DataAccess.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace CodeZone.DataAccess.Repositories
 {
