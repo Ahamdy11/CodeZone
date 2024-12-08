@@ -1,0 +1,14 @@
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\bin\Debug\net9.0\CodeZone.DataAccess.deps.json
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\bin\Debug\net9.0\CodeZone.DataAccess.dll
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\bin\Debug\net9.0\CodeZone.DataAccess.pdb
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\obj\Debug\net9.0\CodeZone.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\obj\Debug\net9.0\CodeZone.DataAccess.AssemblyInfoInputs.cache
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\obj\Debug\net9.0\CodeZone.DataAccess.AssemblyInfo.cs
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\obj\Debug\net9.0\CodeZone.DataAccess.csproj.CoreCompileInputs.cache
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\obj\Debug\net9.0\CodeZone.DataAccess.dll
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\obj\Debug\net9.0\refint\CodeZone.DataAccess.dll
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\obj\Debug\net9.0\CodeZone.DataAccess.pdb
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\obj\Debug\net9.0\ref\CodeZone.DataAccess.dll
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\bin\Debug\net9.0\CodeZone.DataAccess.runtimeconfig.json
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\obj\Debug\net9.0\CodeZone.DataAccess.csproj.AssemblyReference.cache
+E:\Entity Framework\CodeZone\CodeZone.DataAccess\obj\Debug\net9.0\CodeZone.DataAccess.genruntimeconfig.cache

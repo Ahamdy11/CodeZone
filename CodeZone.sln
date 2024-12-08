@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeZone.Web", "CodeZone.Web\CodeZone.Web.csproj", "{11DE2090-E204-4EF6-98A5-20FED2A911E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeZone.DataAccess", "CodeZone.DataAccess\CodeZone.DataAccess.csproj", "{6AC1C736-A2C7-4D79-B000-48C9A4C3460A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11DE2090-E204-4EF6-98A5-20FED2A911E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DE2090-E204-4EF6-98A5-20FED2A911E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DE2090-E204-4EF6-98A5-20FED2A911E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DE2090-E204-4EF6-98A5-20FED2A911E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC1C736-A2C7-4D79-B000-48C9A4C3460A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC1C736-A2C7-4D79-B000-48C9A4C3460A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC1C736-A2C7-4D79-B000-48C9A4C3460A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC1C736-A2C7-4D79-B000-48C9A4C3460A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
