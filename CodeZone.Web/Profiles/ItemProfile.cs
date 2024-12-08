@@ -4,11 +4,11 @@ using CodeZone.Web.ViewModels;
 
 namespace CodeZone.Web.Profiles
 {
-    public class StoreProfile : Profile
+    public class ItemProfile : Profile
     {
-        public StoreProfile()
+        public ItemProfile()
         {
-            CreateMap<Store, StoreViewModel>().ReverseMap();
+            CreateMap<Item,ItemViewModel>().ReverseMap();
         }
     }
 }
