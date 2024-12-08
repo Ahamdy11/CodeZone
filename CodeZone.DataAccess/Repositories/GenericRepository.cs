@@ -19,9 +19,9 @@ namespace CodeZone.DataAccess.Repositories
             _dbSet.Add(entity);
         }
 
-        public IEnumerable<T> GetAll()
+        public List<T> GetAll()
         {
-            return _dbSet.AsNoTracking().ToList();
+            return _dbSet.ToList();
         }
 
         public T GetById(int id)

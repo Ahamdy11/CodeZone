@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeZone.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8348ab6730578cb0d3f28f82f3a35058f013e267")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da00914b14fd46e4bb6ecea1b245ee0ee4ddda99")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeZone.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeZone.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

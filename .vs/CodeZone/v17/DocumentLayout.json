@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "E:\\Entity Framework\\CodeZone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|e:\\entity framework\\codezone\\codezone.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|solutionrelative:codezone.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|e:\\entity framework\\codezone\\codezone.web\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|solutionrelative:codezone.web\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|e:\\entity framework\\codezone\\codezone.web\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|solutionrelative:codezone.web\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|e:\\entity framework\\codezone\\codezone.web\\views\\store\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|solutionrelative:codezone.web\\views\\store\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|e:\\entity framework\\codezone\\codezone.web\\views\\store\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|solutionrelative:codezone.web\\views\\store\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|e:\\entity framework\\codezone\\codezone.web\\views\\store\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|solutionrelative:codezone.web\\views\\store\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|e:\\entity framework\\codezone\\codezone.web\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|solutionrelative:codezone.web\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|e:\\entity framework\\codezone\\codezone.web\\views\\item\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|solutionrelative:codezone.web\\views\\item\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|e:\\entity framework\\codezone\\codezone.web\\views\\item\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|solutionrelative:codezone.web\\views\\item\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|e:\\entity framework\\codezone\\codezone.web\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|solutionrelative:codezone.web\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|e:\\entity framework\\codezone\\codezone.web\\views\\purchase\\transaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|solutionrelative:codezone.web\\views\\purchase\\transaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|e:\\entity framework\\codezone\\codezone.web\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|solutionrelative:codezone.web\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|e:\\entity framework\\codezone\\codezone.web\\viewmodels\\storeitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DE2090-E204-4EF6-98A5-20FED2A911E2}|CodeZone.Web\\CodeZone.Web.csproj|solutionrelative:codezone.web\\viewmodels\\storeitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Store\\Edit.cshtml",
               "RelativeDocumentMoniker": "CodeZone.Web\\Views\\Store\\Edit.cshtml",
               "ToolTip": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Store\\Edit.cshtml",
               "RelativeToolTip": "CodeZone.Web\\Views\\Store\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T03:04:32.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Store\\Delete.cshtml",
-              "RelativeDocumentMoniker": "CodeZone.Web\\Views\\Store\\Delete.cshtml",
-              "ToolTip": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Store\\Delete.cshtml",
-              "RelativeToolTip": "CodeZone.Web\\Views\\Store\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T03:04:04.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Store\\Create.cshtml",
-              "RelativeDocumentMoniker": "CodeZone.Web\\Views\\Store\\Create.cshtml",
-              "ToolTip": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Store\\Create.cshtml",
-              "RelativeToolTip": "CodeZone.Web\\Views\\Store\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T03:03:37.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Store\\Index.cshtml",
-              "RelativeDocumentMoniker": "CodeZone.Web\\Views\\Store\\Index.cshtml",
-              "ToolTip": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Store\\Index.cshtml",
-              "RelativeToolTip": "CodeZone.Web\\Views\\Store\\Index.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T03:03:03.49Z",
+              "WhenOpened": "2024-12-08T18:06:23.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Item\\Delete.cshtml",
-              "RelativeDocumentMoniker": "CodeZone.Web\\Views\\Item\\Delete.cshtml",
-              "ToolTip": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Item\\Delete.cshtml",
-              "RelativeToolTip": "CodeZone.Web\\Views\\Item\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T02:59:51.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Item\\Edit.cshtml",
               "RelativeDocumentMoniker": "CodeZone.Web\\Views\\Item\\Edit.cshtml",
               "ToolTip": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Item\\Edit.cshtml",
               "RelativeToolTip": "CodeZone.Web\\Views\\Item\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T02:59:45.217Z",
+              "WhenOpened": "2024-12-08T18:05:59.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Item\\Create.cshtml",
-              "RelativeDocumentMoniker": "CodeZone.Web\\Views\\Item\\Create.cshtml",
-              "ToolTip": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Item\\Create.cshtml",
-              "RelativeToolTip": "CodeZone.Web\\Views\\Item\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T02:57:49.627Z",
+              "Title": "StoreItemViewModel.cs",
+              "DocumentMoniker": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\ViewModels\\StoreItemViewModel.cs",
+              "RelativeDocumentMoniker": "CodeZone.Web\\ViewModels\\StoreItemViewModel.cs",
+              "ToolTip": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\ViewModels\\StoreItemViewModel.cs",
+              "RelativeToolTip": "CodeZone.Web\\ViewModels\\StoreItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:02:43.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Item\\Index.cshtml",
-              "RelativeDocumentMoniker": "CodeZone.Web\\Views\\Item\\Index.cshtml",
-              "ToolTip": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Item\\Index.cshtml",
-              "RelativeToolTip": "CodeZone.Web\\Views\\Item\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvzgAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cshtml",
+              "DocumentMoniker": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Purchase\\Transaction.cshtml",
+              "RelativeDocumentMoniker": "CodeZone.Web\\Views\\Purchase\\Transaction.cshtml",
+              "ToolTip": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Purchase\\Transaction.cshtml",
+              "RelativeToolTip": "CodeZone.Web\\Views\\Purchase\\Transaction.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T02:53:54.09Z",
+              "WhenOpened": "2024-12-08T16:55:15.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CodeZone.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CodeZone.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:35:31.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PurchaseController.cs",
+              "DocumentMoniker": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Controllers\\PurchaseController.cs",
+              "RelativeDocumentMoniker": "CodeZone.Web\\Controllers\\PurchaseController.cs",
+              "ToolTip": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Controllers\\PurchaseController.cs",
+              "RelativeToolTip": "CodeZone.Web\\Controllers\\PurchaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:01:10.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "CodeZone.Web\\Controllers\\ItemController.cs",
+              "ToolTip": "E:\\Entity Framework\\CodeZone\\CodeZone.Web\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "CodeZone.Web\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:01:09.925Z",
               "EditorCaption": ""
             }
           ]

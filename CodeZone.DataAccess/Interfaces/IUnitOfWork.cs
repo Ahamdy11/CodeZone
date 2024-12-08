@@ -5,6 +5,7 @@ namespace CodeZone.DataAccess.Interfaces
     {
         IStoreRepository Store { get; }
         IItemRepository Item { get; }
+        IStoreItemRepository StoreItem { get; }
         int Complete();
     }
 }
